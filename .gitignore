@@ -3,3 +3,8 @@ Lib
 Scripts
 tcl
 pip-selfcheck.json
+venv
+*.pyc
+staticfiles
+.env
+*.sqlite3
